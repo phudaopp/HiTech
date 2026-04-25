@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SolutionFolder>
+  <ProjectReference Include="HiTech.Core/HiTech.Core.csproj" />
+  <ProjectReference Include="HiTech.Data/HiTech.Data.csproj" />
+  <ProjectReference Include="HiTech.Services/HiTech.Services.csproj" />
+  <ProjectReference Include="HiTech.Presentation/HiTech.Presentation.csproj" />
+</SolutionFolder>
